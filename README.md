@@ -1,9 +1,9 @@
-# 💻 PruebaFrontEnd
+# 💻 Portfolio Showcase
 
-> Frontend Technical Assessment - Modern HTML, CSS & JavaScript Implementation
+> Modern Frontend Portfolio - HTML, CSS & JavaScript Implementation
 
 **Author:** José Eduardo Tirado Verbel  
-**Demo:** [View Live Demo](https://jotive.github.io/PruebaFrontEnd)
+**Demo:** [View Live Demo](https://jotive.github.io/portfolio-showcase)
 
 ## 📝 Overview
 
@@ -30,7 +30,7 @@ This repository contains a comprehensive frontend technical assessment that demo
 ## 📁 Project Structure
 
 ```
-PruebaFrontEnd/
+portfolio-showcase/
 ├── index.html          # Main HTML file
 ├── css/                # Stylesheets
 │   └── styles.css      # Main CSS file
@@ -52,8 +52,8 @@ PruebaFrontEnd/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/jotive/PruebaFrontEnd.git
-   cd PruebaFrontEnd
+   git clone https://github.com/jotive/portfolio-showcase.git
+   cd portfolio-showcase
    ```
 
 2. **Open in browser:**
@@ -69,7 +69,7 @@ PruebaFrontEnd/
 
 3. **View the project:**
    - Navigate to `http://localhost:8000` in your browser
-   - Or view the live demo at [jotive.github.io/PruebaFrontEnd](https://jotive.github.io/PruebaFrontEnd)
+   - Or view the live demo at [jotive.github.io/portfolio-showcase](https://jotive.github.io/portfolio-showcase)
 
 ## 📚 Key Implementation Details
 
